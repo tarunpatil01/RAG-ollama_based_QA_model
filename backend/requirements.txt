@@ -1,0 +1,14 @@
+flask
+flask-cors
+PyPDF2
+numpy
+ollama
+pytesseract
+python-docx
+opencv-python
+paddleocr
+paddlepaddle
+pymupdf
+pandas
+nltk
+langdetect
