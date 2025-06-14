@@ -81,3 +81,6 @@ npm run dev
 - Ollama must be running locally with the required models (e.g., `mistral`, `mxbai-embed-large`).
 - This project is for local/private use and does not send your documents to any external cloud service.
 
+Screenshots:
+![image](https://github.com/user-attachments/assets/daa2f976-a319-4734-a25b-bf7cf8a84b95)
+![image](https://github.com/user-attachments/assets/7cf69be5-bcda-44c5-b313-abd082bf0001)
